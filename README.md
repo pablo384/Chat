@@ -1,2 +1,3 @@
 # Chat
-chat sencillo
+Chat sencillo escrito en Java.
+Utilizando Sockets.
