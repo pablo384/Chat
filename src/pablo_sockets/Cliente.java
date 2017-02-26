@@ -1,7 +1,7 @@
 package pablo_sockets;
 
 
-import java.awt.event.*;
+import java.awt.event.*; 
 import java.io.*;
 import java.io.IOException;
 
@@ -16,7 +16,7 @@ import java.util.ArrayList;
 public class Cliente {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		
 		MarcoCliente mimarco=new MarcoCliente();
 		
